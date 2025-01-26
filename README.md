@@ -38,7 +38,7 @@ The H-Bridge (e.g., L298N) allows the Arduino to control the motor direction and
 
 ## 📸  Photos
 
-![Juan Fernando Vaquera Sanchez](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FAuto-Arduino.jpg?alt=media&token=8a0405f0-2c2d-4ad7-a4ea-3e3f9728c4c3)
+![Juan Fernando Vaquera Sanchez](https://github.com/Vaquera26/BluetoothCarControl/blob/main/Photos/Auto-Arduino.jpg?raw=true)
 
 ## About
 <div align="center">
